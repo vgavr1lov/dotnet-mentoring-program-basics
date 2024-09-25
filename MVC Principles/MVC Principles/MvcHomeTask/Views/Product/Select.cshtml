@@ -1,0 +1,32 @@
+﻿@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@model IEnumerable<MvcHomeTaskLibrary.Models.ProductWithCategoryNameAndSupplierName>
+
+@{
+    ViewData["Title"] = "Select";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Update Product</h1>
+
+<fieldset>
+    <form asp-action="Select" asp-controller="Product">
+
+        <div class="mb-3">
+            <label for="productId" class="form-label">Select Product</label>
+            <select class="form-select" id="productId" name="selectedProductId">
+                @* name="selectedProductId" should be the same a parameter name in HTTPPost method in Controller *@
+                @foreach (var product in Model)
+                {
+                    <option value="@product.ProductId">@product.ProductName</option>
+                }
+            </select>
+        </div>
+
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+        <button type="submit" class="btn btn-primary">Update</button>
+
+    </form>
+</fieldset>
+
+

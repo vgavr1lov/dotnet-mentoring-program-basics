@@ -1,0 +1,36 @@
+C:\Users\Valentin_Gavrilov\Desktop\Training\.NET Mentoring Program Basics\Serialization\CabinetSoftwareLibrary\CabinetLibrary\obj\Debug\net8.0\CabinetLibrary.csproj.AssemblyReference.cache
+C:\Users\Valentin_Gavrilov\Desktop\Training\.NET Mentoring Program Basics\Serialization\CabinetSoftwareLibrary\CabinetLibrary\obj\Debug\net8.0\CabinetLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Valentin_Gavrilov\Desktop\Training\.NET Mentoring Program Basics\Serialization\CabinetSoftwareLibrary\CabinetLibrary\obj\Debug\net8.0\CabinetLibrary.AssemblyInfoInputs.cache
+C:\Users\Valentin_Gavrilov\Desktop\Training\.NET Mentoring Program Basics\Serialization\CabinetSoftwareLibrary\CabinetLibrary\obj\Debug\net8.0\CabinetLibrary.AssemblyInfo.cs
+C:\Users\Valentin_Gavrilov\Desktop\Training\.NET Mentoring Program Basics\Serialization\CabinetSoftwareLibrary\CabinetLibrary\obj\Debug\net8.0\CabinetLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Valentin_Gavrilov\Desktop\Training\.NET Mentoring Program Basics\Serialization\CabinetSoftwareLibrary\CabinetLibrary\bin\Debug\net8.0\CabinetLibrary.deps.json
+C:\Users\Valentin_Gavrilov\Desktop\Training\.NET Mentoring Program Basics\Serialization\CabinetSoftwareLibrary\CabinetLibrary\bin\Debug\net8.0\CabinetLibrary.dll
+C:\Users\Valentin_Gavrilov\Desktop\Training\.NET Mentoring Program Basics\Serialization\CabinetSoftwareLibrary\CabinetLibrary\bin\Debug\net8.0\CabinetLibrary.pdb
+C:\Users\Valentin_Gavrilov\Desktop\Training\.NET Mentoring Program Basics\Serialization\CabinetSoftwareLibrary\CabinetLibrary\obj\Debug\net8.0\CabinetLibrary.dll
+C:\Users\Valentin_Gavrilov\Desktop\Training\.NET Mentoring Program Basics\Serialization\CabinetSoftwareLibrary\CabinetLibrary\obj\Debug\net8.0\refint\CabinetLibrary.dll
+C:\Users\Valentin_Gavrilov\Desktop\Training\.NET Mentoring Program Basics\Serialization\CabinetSoftwareLibrary\CabinetLibrary\obj\Debug\net8.0\CabinetLibrary.pdb
+C:\Users\Valentin_Gavrilov\Desktop\Training\.NET Mentoring Program Basics\Serialization\CabinetSoftwareLibrary\CabinetLibrary\obj\Debug\net8.0\ref\CabinetLibrary.dll
+C:\Users\Valentin_Gavrilov\Desktop\Training\.NET Mentoring Program Basics\OOP Fundamentals and Design Principles\CabinetSoftwareLibrary\CabinetLibrary\bin\Debug\net8.0\CabinetLibrary.deps.json
+C:\Users\Valentin_Gavrilov\Desktop\Training\.NET Mentoring Program Basics\OOP Fundamentals and Design Principles\CabinetSoftwareLibrary\CabinetLibrary\bin\Debug\net8.0\CabinetLibrary.dll
+C:\Users\Valentin_Gavrilov\Desktop\Training\.NET Mentoring Program Basics\OOP Fundamentals and Design Principles\CabinetSoftwareLibrary\CabinetLibrary\bin\Debug\net8.0\CabinetLibrary.pdb
+C:\Users\Valentin_Gavrilov\Desktop\Training\.NET Mentoring Program Basics\OOP Fundamentals and Design Principles\CabinetSoftwareLibrary\CabinetLibrary\obj\Debug\net8.0\CabinetLibrary.csproj.AssemblyReference.cache
+C:\Users\Valentin_Gavrilov\Desktop\Training\.NET Mentoring Program Basics\OOP Fundamentals and Design Principles\CabinetSoftwareLibrary\CabinetLibrary\obj\Debug\net8.0\CabinetLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Valentin_Gavrilov\Desktop\Training\.NET Mentoring Program Basics\OOP Fundamentals and Design Principles\CabinetSoftwareLibrary\CabinetLibrary\obj\Debug\net8.0\CabinetLibrary.AssemblyInfoInputs.cache
+C:\Users\Valentin_Gavrilov\Desktop\Training\.NET Mentoring Program Basics\OOP Fundamentals and Design Principles\CabinetSoftwareLibrary\CabinetLibrary\obj\Debug\net8.0\CabinetLibrary.AssemblyInfo.cs
+C:\Users\Valentin_Gavrilov\Desktop\Training\.NET Mentoring Program Basics\OOP Fundamentals and Design Principles\CabinetSoftwareLibrary\CabinetLibrary\obj\Debug\net8.0\CabinetLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Valentin_Gavrilov\Desktop\Training\.NET Mentoring Program Basics\OOP Fundamentals and Design Principles\CabinetSoftwareLibrary\CabinetLibrary\obj\Debug\net8.0\CabinetLibrary.dll
+C:\Users\Valentin_Gavrilov\Desktop\Training\.NET Mentoring Program Basics\OOP Fundamentals and Design Principles\CabinetSoftwareLibrary\CabinetLibrary\obj\Debug\net8.0\refint\CabinetLibrary.dll
+C:\Users\Valentin_Gavrilov\Desktop\Training\.NET Mentoring Program Basics\OOP Fundamentals and Design Principles\CabinetSoftwareLibrary\CabinetLibrary\obj\Debug\net8.0\CabinetLibrary.pdb
+C:\Users\Valentin_Gavrilov\Desktop\Training\.NET Mentoring Program Basics\OOP Fundamentals and Design Principles\CabinetSoftwareLibrary\CabinetLibrary\obj\Debug\net8.0\ref\CabinetLibrary.dll
+C:\Users\Valentin_Gavrilov\Desktop\Github\.NET Mentoring Program Basics\OOP Fundamentals and Design Principles\OOP Fundamentals and Design Principles\CabinetLibrary\bin\Debug\net8.0\CabinetLibrary.deps.json
+C:\Users\Valentin_Gavrilov\Desktop\Github\.NET Mentoring Program Basics\OOP Fundamentals and Design Principles\OOP Fundamentals and Design Principles\CabinetLibrary\bin\Debug\net8.0\CabinetLibrary.dll
+C:\Users\Valentin_Gavrilov\Desktop\Github\.NET Mentoring Program Basics\OOP Fundamentals and Design Principles\OOP Fundamentals and Design Principles\CabinetLibrary\bin\Debug\net8.0\CabinetLibrary.pdb
+C:\Users\Valentin_Gavrilov\Desktop\Github\.NET Mentoring Program Basics\OOP Fundamentals and Design Principles\OOP Fundamentals and Design Principles\CabinetLibrary\obj\Debug\net8.0\CabinetLibrary.csproj.AssemblyReference.cache
+C:\Users\Valentin_Gavrilov\Desktop\Github\.NET Mentoring Program Basics\OOP Fundamentals and Design Principles\OOP Fundamentals and Design Principles\CabinetLibrary\obj\Debug\net8.0\CabinetLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Valentin_Gavrilov\Desktop\Github\.NET Mentoring Program Basics\OOP Fundamentals and Design Principles\OOP Fundamentals and Design Principles\CabinetLibrary\obj\Debug\net8.0\CabinetLibrary.AssemblyInfoInputs.cache
+C:\Users\Valentin_Gavrilov\Desktop\Github\.NET Mentoring Program Basics\OOP Fundamentals and Design Principles\OOP Fundamentals and Design Principles\CabinetLibrary\obj\Debug\net8.0\CabinetLibrary.AssemblyInfo.cs
+C:\Users\Valentin_Gavrilov\Desktop\Github\.NET Mentoring Program Basics\OOP Fundamentals and Design Principles\OOP Fundamentals and Design Principles\CabinetLibrary\obj\Debug\net8.0\CabinetLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Valentin_Gavrilov\Desktop\Github\.NET Mentoring Program Basics\OOP Fundamentals and Design Principles\OOP Fundamentals and Design Principles\CabinetLibrary\obj\Debug\net8.0\CabinetLibrary.dll
+C:\Users\Valentin_Gavrilov\Desktop\Github\.NET Mentoring Program Basics\OOP Fundamentals and Design Principles\OOP Fundamentals and Design Principles\CabinetLibrary\obj\Debug\net8.0\refint\CabinetLibrary.dll
+C:\Users\Valentin_Gavrilov\Desktop\Github\.NET Mentoring Program Basics\OOP Fundamentals and Design Principles\OOP Fundamentals and Design Principles\CabinetLibrary\obj\Debug\net8.0\CabinetLibrary.pdb
+C:\Users\Valentin_Gavrilov\Desktop\Github\.NET Mentoring Program Basics\OOP Fundamentals and Design Principles\OOP Fundamentals and Design Principles\CabinetLibrary\obj\Debug\net8.0\ref\CabinetLibrary.dll

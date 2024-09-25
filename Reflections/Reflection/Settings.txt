@@ -1,0 +1,3 @@
+﻿CommonConfigParameter1=20
+CommonConfigParameter2=2.02
+SpecificConfigParameter2=01:00:00

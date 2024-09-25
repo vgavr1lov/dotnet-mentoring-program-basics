@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "OlM1AkSKIr1uaRM9BDCnc/24q/ttkMvGZ5A5qPaBwsIEF6e/3A6JRnP8A3XfcPiPeORnz3HlI4tarKViRC19TQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Valentin_Gavrilov\\Desktop\\Github\\.NET Mentoring Program Basics\\OOP Fundamentals and Design Principles\\OOP Fundamentals and Design Principles\\CabinetLibrary\\CabinetLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Valentin_Gavrilov\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\8.0.0\\microsoft.extensions.caching.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Valentin_Gavrilov\\.nuget\\packages\\microsoft.extensions.caching.memory\\8.0.0\\microsoft.extensions.caching.memory.8.0.0.nupkg.sha512",
+    "C:\\Users\\Valentin_Gavrilov\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\Valentin_Gavrilov\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Valentin_Gavrilov\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Valentin_Gavrilov\\.nuget\\packages\\microsoft.extensions.options\\8.0.0\\microsoft.extensions.options.8.0.0.nupkg.sha512",
+    "C:\\Users\\Valentin_Gavrilov\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

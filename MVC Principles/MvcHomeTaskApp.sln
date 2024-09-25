@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MvcHomeTask", "MVC Principles\MvcHomeTask\MvcHomeTask.csproj", "{E8AB09C7-E329-491F-8809-FB6CF3B74E29}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MvcHomeTaskLibrary", "MVC Principles\MvcHomeTaskLibrary\MvcHomeTaskLibrary.csproj", "{940C1360-CF29-4972-87A6-ACC7F075285C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E8AB09C7-E329-491F-8809-FB6CF3B74E29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8AB09C7-E329-491F-8809-FB6CF3B74E29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8AB09C7-E329-491F-8809-FB6CF3B74E29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8AB09C7-E329-491F-8809-FB6CF3B74E29}.Release|Any CPU.Build.0 = Release|Any CPU
+		{940C1360-CF29-4972-87A6-ACC7F075285C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{940C1360-CF29-4972-87A6-ACC7F075285C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{940C1360-CF29-4972-87A6-ACC7F075285C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{940C1360-CF29-4972-87A6-ACC7F075285C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {97A9D24A-F647-4593-B717-12CEDE6AC618}
+	EndGlobalSection
+EndGlobal

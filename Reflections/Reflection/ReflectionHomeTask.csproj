@@ -1,0 +1,34 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<OutputType>Exe</OutputType>
+		<TargetFramework>net8.0</TargetFramework>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<Nullable>enable</Nullable>
+	</PropertyGroup>
+
+	<PropertyGroup>
+		<PreBuildEvent>if not exist "$(OutputPath)Plugins" mkdir $(OutputPath)Plugins</PreBuildEvent>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<None Remove="App.config" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<Content Include="App.config">
+			<CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</Content>
+	</ItemGroup>
+
+	<ItemGroup>
+		<PackageReference Include="System.Configuration.ConfigurationManager" Version="8.0.0" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <Reference Include="IConfigurationProviderLibrary">
+	    <HintPath>IConfigurationProviderLibrary.dll</HintPath>
+	  </Reference>
+	</ItemGroup>
+
+</Project>

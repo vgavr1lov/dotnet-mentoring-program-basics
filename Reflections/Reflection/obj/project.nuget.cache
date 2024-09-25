@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZQcdyDYnHzdNSWsGir+mWIA0RmXotz8kzoxjg2epcm2XeDQB3kt1u9/UcVJjvqm2tupw64BY3uftjzwyoXwtrA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Valentin_Gavrilov\\Desktop\\Github\\.NET Mentoring Program Basics\\Reflections\\Reflection\\ReflectionHomeTask.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Valentin_Gavrilov\\.nuget\\packages\\system.configuration.configurationmanager\\8.0.0\\system.configuration.configurationmanager.8.0.0.nupkg.sha512",
+    "C:\\Users\\Valentin_Gavrilov\\.nuget\\packages\\system.diagnostics.eventlog\\8.0.0\\system.diagnostics.eventlog.8.0.0.nupkg.sha512",
+    "C:\\Users\\Valentin_Gavrilov\\.nuget\\packages\\system.security.cryptography.protecteddata\\8.0.0\\system.security.cryptography.protecteddata.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

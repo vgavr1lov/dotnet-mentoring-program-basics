@@ -1,0 +1,17 @@
+To: Valentin_Gavrilov@epam.com
+From: Valentin_Gavrilov@epam.com
+Subject: Logs
+Date: Fri, 05 Jul 2024 17:42:34 GMT
+
+-----------
+
+Level: Information
+Starting web application
+
+Properties:
+MachineName: "EPPLKRAW0071"
+ProcessId: 11316
+ThreadId: 1
+
+No exception was logged
+

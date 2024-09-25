@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleUI", "OOP Fundamentals and Design Principles\ConsoleUI\ConsoleUI.csproj", "{39404895-DD93-4C5B-99BA-38FAF4F9768D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CabinetLibrary", "OOP Fundamentals and Design Principles\CabinetLibrary\CabinetLibrary.csproj", "{4883386F-9436-4CE0-BAFC-95169AACD693}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39404895-DD93-4C5B-99BA-38FAF4F9768D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39404895-DD93-4C5B-99BA-38FAF4F9768D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39404895-DD93-4C5B-99BA-38FAF4F9768D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39404895-DD93-4C5B-99BA-38FAF4F9768D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4883386F-9436-4CE0-BAFC-95169AACD693}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4883386F-9436-4CE0-BAFC-95169AACD693}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4883386F-9436-4CE0-BAFC-95169AACD693}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4883386F-9436-4CE0-BAFC-95169AACD693}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C2D068A1-5FEF-4B16-85EA-7240823F83E0}
+	EndGlobalSection
+EndGlobal

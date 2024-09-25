@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FileSystemTraverseApp", "Advanced C#\FileSystemTraverseApp\FileSystemTraverseApp.csproj", "{F26060DA-F73C-4A85-8B3C-A8DDE7B36A34}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FileSystemTraverse.Tests", "Advanced C#\FileSystemVisitor.Tests\FileSystemTraverse.Tests.csproj", "{BA6F792B-2B66-418C-906A-057AF7E89EA7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F26060DA-F73C-4A85-8B3C-A8DDE7B36A34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F26060DA-F73C-4A85-8B3C-A8DDE7B36A34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F26060DA-F73C-4A85-8B3C-A8DDE7B36A34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F26060DA-F73C-4A85-8B3C-A8DDE7B36A34}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA6F792B-2B66-418C-906A-057AF7E89EA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA6F792B-2B66-418C-906A-057AF7E89EA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA6F792B-2B66-418C-906A-057AF7E89EA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA6F792B-2B66-418C-906A-057AF7E89EA7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {35F69A42-0A98-4630-B156-AA4630F9B80C}
+	EndGlobalSection
+EndGlobal
